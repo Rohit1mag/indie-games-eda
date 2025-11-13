@@ -1,0 +1,8 @@
+{
+  "total_games": 46957,
+  "success_rate": 0.17013437826096214,
+  "date_range": "2020-2025",
+  "class_imbalance_ratio": 4.877706846914507,
+  "features_with_missing_data": 7,
+  "temporal_decline": -95.04528795866878
+}
